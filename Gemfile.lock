@@ -228,7 +228,7 @@ DEPENDENCIES
   byebug
   jbuilder (~> 2.7)
   listen (~> 3.3)
-  matestack-ui-core (~> 1.4)
+  matestack-ui-core
   pg (~> 1.1)
   puma (~> 5.0)
   rack-mini-profiler (~> 2.0)

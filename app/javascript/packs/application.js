@@ -12,3 +12,4 @@ Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
 require("css/application.scss")
+import MatestackUiCore from 'matestack-ui-core'
