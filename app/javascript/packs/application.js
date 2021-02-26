@@ -4,12 +4,10 @@
 // that code so it'll be compiled.
 
 import Rails from "@rails/ujs"
-import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
+import MatestackUiCore from 'matestack-ui-core'
 
 Rails.start()
-Turbolinks.start()
 ActiveStorage.start()
 require("css/application.scss")
-import MatestackUiCore from 'matestack-ui-core'
